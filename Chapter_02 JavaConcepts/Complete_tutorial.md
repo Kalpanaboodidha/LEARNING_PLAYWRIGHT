@@ -1,5 +1,6 @@
 JavaScript Complete Tutorial
- Beginner to Advanced
+
+Beginner to Advanced
 🟢 SECTION 1: IDENTIFIERS IN JAVASCRIPT
 What is an Identifier?
 An identifier is a name used to identify a variable, function, class, or any other user-defined item in JavaScript. Think of identifiers as labels or names you give to things in your code so you can refer to them later.
@@ -63,7 +64,9 @@ QA Examples — Identifiers
 🔹 Q: What happens if you use @ in an identifier? 💡 A: JavaScript will throw a SyntaxError. Only letters, digits, underscore (_), and dollar sign ($) are allowed.
 
 🟢 SECTION 2: LITERALS IN JAVASCRIPT
+
 What is a Literal?
+
 A literal is a fixed value written directly in your code. Unlike variables (names pointing to values), literals ARE the values themselves. When you write 42, that is a numeric literal. When you write "hello", that is a string literal.
 
 Types of Literals
@@ -136,6 +139,7 @@ QA Examples — Literals
 🔹 Q: Why does typeof null return "object"? 💡 A: Bug from 1995, never fixed for compatibility. Check null with === null.
 
 🟢 SECTION 3: OPERATORS IN JAVASCRIPT
+
 What is an Operator?
 An operator is a symbol that tells JavaScript to perform a specific mathematical, relational, logical, or assignment operation on operands to produce a result.
 
@@ -227,6 +231,7 @@ QA Examples — Operators
 🔹 Q: What is short-circuit evaluation? 💡 A: && stops if left is false, || stops if left is true. Example: element && element.click() skips if null.
 
 🟢 SECTION 4: HOISTING IN JAVASCRIPT
+
 What is Hoisting?
 Hoisting is JavaScript's default behavior of moving declarations to the top of their scope during compilation. Only DECLARATIONS are hoisted, not initializations.
 
