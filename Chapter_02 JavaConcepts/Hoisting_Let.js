@@ -1,0 +1,10 @@
+// console.log(username);
+console.log("Learning PLaywright");
+console.log("Learning PLaywright");
+console.log("Learning PLaywright");
+console.log("Learning PLaywright");
+let username = "New";
+console.log("Learning PLaywright");
+console.log("Learning PLaywright");
+console.log("Learning PLaywright");
+console.log(username);
