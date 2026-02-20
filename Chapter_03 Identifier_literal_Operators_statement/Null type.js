@@ -11,4 +11,4 @@ console.log(declaredOnly);           // undefined
 
 
 // Equality comparisons
-console.log(null == undefined);
+console.log(null == undefined);  // true (special rule in JavaScript)
