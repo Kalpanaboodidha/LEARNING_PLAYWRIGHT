@@ -1,7 +1,7 @@
 let a = 10;
 console.log(a);
 
-for (let a = 0; a < 100000; a++) {
+for (let a = 0; a < 10; a++) {
     console.log(a);
     print();
 }
@@ -9,3 +9,5 @@ for (let a = 0; a < 100000; a++) {
 function print() {
     console.log("Hello");
 }
+
+

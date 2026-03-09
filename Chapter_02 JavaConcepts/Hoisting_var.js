@@ -1,6 +1,6 @@
 console.log(greeting);   // Output: undefined
 var greeting = "Hello!";
-console.log(greeting);   // Output: "Hello!"dasdasd
+console.log(greeting);   // Output: "Hello!"
 
 // Behind the scenes:
 // var greeting;              <-- hoisted with undefined
