@@ -1,5 +1,10 @@
-let age = 20;
+console.log(typeof "hello");
+console.log(typeof 123); // int -> number
+console.log(typeof 31.4); // float -> number
+// typeof true
+// typeof undefined  -> undefined
+// typeof null  -> object
+// typeof [] -> object
+console.log(typeof []); // -> object
 
-let is_pramod_will_go_to_goa = age > 18 ? "Yes, let go goa!" : "No you are minor, Not going";
-console.log(is_pramod_will_go_to_goa)
-// Ternary = condition ? "true resul" : "false result";
+console.log(`${6 * 4}`); // -> 24
